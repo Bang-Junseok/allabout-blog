@@ -4,7 +4,7 @@ email:              "jsbang95@gmail.com"
 description:        "나이키만의 차별화된 브랜딩 마케팅과 타사 브랜드와의 비교를 통한 분석, 이를 통해 얻을 수 있는 점과 마케터로서의 자질"
 author:             "방준석"
 baseurl:            "/"
-url:                "https://allabout-nike.com/"
+url:                "https://allabout-nike.com"
 locale:             "ko_KR"
 thumbnail:          "/img/bg-index.jpg"
 
