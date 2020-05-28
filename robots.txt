@@ -1,0 +1,4 @@
+User-agent:*
+Allow:/
+
+Sitemap: http://allabout-nike.com/sitemap.xml
