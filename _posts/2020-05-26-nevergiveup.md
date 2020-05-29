@@ -21,6 +21,8 @@ description: '광고를 만들랬더니 감동을 주더니, 이젠 동기부여
 
 ##### Just do it: 너를 외쳐봐 (Nike Korea)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ONLW-q4S8Gg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 영상의 시작은 이렇다. 수 많은 젊은이들이 노력하고 실패하고, 실수하고 수 없이 넘어지고 다치기를 반복한다. 그럴 때마다 이영표 선수 (전 대한민국 축구 국가대표)는  ‘이건 시간 낭비야’,  ‘그냥 남들 하는 대로 하자’ ‘안 되는 건 안 되는 거야’ 라는 등 비관적인 말과 함께, 치킨 배달원, 교통 순경 등 현실적인 모습으로 젊은 이들을 비판하고, 암울한 분위기를 연출한다. 마치 이 세상은 해야 할 일이 정해져 있다는 듯이, 남들 하는 대로 하라는 듯이, **실제로 지금 꿈꾸는 청춘들에게 흔히 들을 수 있는 말들이 광고에서 적나라하게 말해주고 있다.**단순히 스포츠라는 분야의 한계뿐만 아니라 모든 분야에서 해당되는 말이다.
 
 
