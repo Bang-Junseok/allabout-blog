@@ -6,7 +6,7 @@ date: 2020-05-26 17:00:00 +09:00
 feature: '/img/posts/01/giveup.jpg'
 background: '/img/posts/01/thumbnaill.jpg'
 categories:
-  - never give up
+  - marketing
 tags:
   - 기업 브랜딩
   - 브랜딩 마케팅
