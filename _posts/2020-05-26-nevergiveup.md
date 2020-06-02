@@ -4,7 +4,7 @@ permalink: /never give up/
 title: '그런데도 끝까지 하겠다는 거야?'
 date: 2020-05-26 17:00:00 +09:00
 feature: '/img/posts/01/giveup.jpg'
-background: '/img/posts/01/thumbnaill.jpg'
+background: '/img/posts/01/doit.jpg'
 categories:
   - marketing
 tags:
